@@ -35,6 +35,15 @@ Os links com a demo do funcionamento estão abaixo:
 - [01](https://www.municipioonline.com.br/se/treinamento/propria)
 - [02](https://www.municipioonline.com.br/se/treinamento/propria/cidadao/servidor)
 
+## Critério de avaliação
+
+Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos atenção especial para os itens abaixo:
+
+1 - Design-> Coerência de cores, imagens, responsividade, UX, UI;
+2 - React.JS/Native -> Utilização e escolhas de libs, exemplo: Redux, Hooks, Typescript (preferência), Testes;
+3 - Node.JS -> Typescript (preferência), SOLID, Testes;
+4 - Clean code.
+
 ## Submetendo
 
 1. Abra uma **issue** e no título desta _issue_, coloque o nome da sua cidade entre colchetes seguido do tipo de vaga (Front-End, Back-End, FullStack) e seu nome.
