@@ -62,9 +62,11 @@ Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos at
 
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
-### Siga nosso Linkedin <img src="https://user-images.githubusercontent.com/5139981/91991728-a495f100-ed09-11ea-8abf-d1f8a176780b.png" alt="Linkedin" width="30" />
+## Siga-nos
 
-[3Tecnos](https://www.linkedin.com/company/3tecnos/)
+[![Linkedin](https://user-images.githubusercontent.com/5139981/92164006-fd997e00-ee0a-11ea-956a-a737ef94ebfd.png "Linkedin")](https://www.linkedin.com/company/3tecnos/)
+
+[![Intagram](https://user-images.githubusercontent.com/5139981/92163954-e8bcea80-ee0a-11ea-99ee-295d9eaa8197.png "Intagram")](https://instagram.com/3tecnos)
 
 ## Licença
 
