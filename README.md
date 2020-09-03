@@ -1,12 +1,17 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5139981/92129779-57ce1b00-edda-11ea-9953-4c250f661cbb.png" width="400" alt="Vagas 3Tecnos">
 </p>
+
+<h1 align="center">
+
+![front-end](https://badgen.net/badge/front-end/React-js\Native/green/) ![back-end](https://badgen.net/badge/back-end/Node.js/blue/) ![database](https://badgen.net/badge/database/NoSql/pink/) ![skill](https://badgen.net/badge/skill/AWS/yellow/)
+
+</h1>
 <h1 align="center">Vagas</h1>
-<p align="center">Espaço para divulgação de vagas.</p>
 
-# Bem-vindo
+# Bem-vindo dev
 
-Espaço para submissão de vagas para desenvolvedores via _issues_ do Github.
+Este é um espaço para divulgação de nossas vagas para desenvolvedores via _issues_ do Github.
 
 > As submissões devem ser feitas em https://github.com/3Tecnos-Development/vagas/issues
 
@@ -20,7 +25,7 @@ Espaço para submissão de vagas para desenvolvedores via _issues_ do Github.
 - ASW
 - NoSql
 
-#### Requisitos
+### Requisitos
 
 Desenvolver um protótipo de uma APP (Web ou Mobile) utilizando a stack acima (completa ou parcial) seguindo os aspectos visuais e funcionais do projeto modelo abaixo.
 
