@@ -15,7 +15,7 @@ Este é um espaço para divulgação de nossas vagas para desenvolvedores via _i
 
 > As submissões devem ser feitas em https://github.com/3Tecnos-Development/vagas/issues
 
-## Desafio
+## Desafio - 01
 
 ### Stack
 
@@ -59,9 +59,9 @@ Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos at
 
 2. Comente falando sobre o que achou do desafio proposto e um resumo de como você construiu junto com link para o repositório do protótipo.
 
-3. Informe quais _labels_ correspondem a suas skills, contendo o nível de experiência desejada e a forma de contração.
+3. Informe quais _labels_ correspondem a suas skills, contendo o nível de experiência desejada (Júnior, Pleno, Sénior) e a forma de contração (CLT, PJ ou ambos).
 
-**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
+**Atenção**: Não aceitaremos submissões para as vagas sem a realização do desafio.
 
 ### Como receber atualizações de novas vagas:
 
