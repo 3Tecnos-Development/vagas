@@ -63,6 +63,8 @@ Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos at
 
 **Atenção**: Não aceitaremos submissões para as vagas sem a realização do desafio.
 
+> **Help** - Ficou alguma dúvida, entre em contato conosco.
+
 ### Como receber atualizações de novas vagas:
 
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
