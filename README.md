@@ -46,9 +46,9 @@ Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos at
 
 1. Design-> Coerência de cores, imagens, responsividade, UX, UI;
 
-2. React.JS/Native -> Utilização e escolhas de libs, exemplo: Redux, Hooks, Typescript (preferência), Testes;
+2. React.JS/Native -> Utilização e escolhas de libs, exemplo: Redux, Hooks, Typescript (preferêncial), Testes;
 
-3. Node.JS -> Typescript (preferência), SOLID, Testes;
+3. Node.JS -> Typescript (preferêncial), SOLID, Testes;
 
 4. Clean code.
 
