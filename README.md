@@ -4,7 +4,7 @@
 
 <h1 align="center">
 
-![front-end](https://badgen.net/badge/front-end/React-js\Native/green/) ![back-end](https://badgen.net/badge/back-end/Node.js/blue/) ![database](https://badgen.net/badge/database/NoSql/pink/) ![skill](https://badgen.net/badge/skill/AWS/yellow/)
+[![front-end](https://img.shields.io/badge/FrontEnd-React.js\Native-green.svg)](https://shields.io/) [![front-end](https://img.shields.io/badge/BackEnd-Node.js-blue.svg)](https://shields.io/) [![database](https://img.shields.io/badge/Database-NoSql-violet.svg)](https://shields.io/) [![skill](https://img.shields.io/badge/Skill-AWS-yellow.svg)](https://shields.io/)
 
 </h1>
 <h1 align="center">Vagas</h1>
