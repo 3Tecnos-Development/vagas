@@ -59,7 +59,7 @@ Vamos avaliar a solução proposta como sendo a sua melhor solução, daremos at
 
 2. Comente falando sobre o que achou do desafio proposto e um resumo de como você construiu junto com link para o repositório do protótipo.
 
-3. Informe quais _labels_ correspondem a suas skills, contendo o nível de experiência desejada (Júnior, Pleno, Sénior) e a forma de contração (CLT, PJ ou ambos).
+3. Informe quais _labels_ correspondem a suas skills, contendo o nível de experiência desejada (Júnior, Pleno, Sénior), a forma de contração (CLT, PJ ou ambos) e o tipo de alocação (Remoto, Alocado ou ambos).
 
 **Atenção**: Não aceitaremos submissões para as vagas sem a realização do desafio.
 
