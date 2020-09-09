@@ -22,7 +22,7 @@ Este é um espaço para divulgação de nossas vagas para desenvolvedores via _i
 - React.JS
 - React Native
 - Node.Js
-- ASW
+- AWS
 - NoSql
 
 ### Requisitos
