@@ -15,7 +15,7 @@ Este é um espaço para divulgação de nossas vagas para desenvolvedores via _i
 
 > As submissões devem ser feitas em https://github.com/3Tecnos-Development/vagas/issues
 
-## Desafio - 01
+## Desafio - 01 - A data limite para submeter a uma vaga é 01/10/2020 ou até atingir 50 submissões.
 
 ### Stack
 
